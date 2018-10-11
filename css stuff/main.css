@@ -1,0 +1,33 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    background: black;
+}
+header {
+    width: 1700px;
+    position: fixed;
+    background-color:#00ddff;
+  }
+menu li
+{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    width: 17%;
+    font-size: 30px;
+    list-style: none;
+    height: 50px;
+    float: left;
+    color: white;
+}
+nav a:visited, a:link{
+    color: white;
+
+}
+.piclinks li{
+    padding: 10px;
+    width: 40px;
+    float: left;
+    background: #00ddff;
+    list-style: none;
+    height: 50px;
+}
