@@ -12,7 +12,7 @@ menu li
 {
     font-family: 'Courier New', Courier, monospace;
     padding: 20px;
-    width: 17%;
+    width: 12%;
     font-size: 30px;
     list-style: none;
     height: 50px;
@@ -25,9 +25,45 @@ nav a:visited, a:link{
 }
 .piclinks li{
     padding: 10px;
-    width: 40px;
     float: left;
     background: #00ddff;
     list-style: none;
-    height: 50px;
+}
+.mepic{    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    bottom: 0;
+    margin-left: -40px;
+}
+.yeet p{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    float: right;
+    margin-top: 170px;
+}
+.smalltext p{
+    margin-right: -290px;
+    float: right;
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-top: 340px;
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    background: #00ddff;
+    color: white;
+    margin-top: 480px;
+    font-size: 45px;
+    float: right;
+    margin-right: -800px;
+    width: 250px;
+    height: 70px;
+}
+ a:visited, a:link{
+    color: white;
+
 }
